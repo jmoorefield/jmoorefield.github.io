@@ -13,7 +13,6 @@ I've been an active member of FSU's research computer science my sophmore year o
 
 To-dos: 
 Finish home page text; 
-Change color of links; 
 Get rid of titles at top of page;
 Add projects content;
 Add research content 
