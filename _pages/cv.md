@@ -13,6 +13,7 @@ Education
 * B.A. in English, Florida State University, 2023
 * M.S. in Computer Science, Florida State University, expected Spring 2024
 
+
 Research experience
 ======
 * Summer 2023-Present: Master's Thesis-track
@@ -31,7 +32,6 @@ Research experience
   * Florida State University, Department of Computer Science
   * Advisor: Dr. Chris Mills
   * Thesis Title: Leveraging Object-Relational Mapping to Reduce Entity Impedance in Natural Language Interfaces for Relational Databases
-  * Link to Thesis: [https://diginole.lib.fsu.edu/islandora/object/fsu:802551/datastream/PDF/view](url)
   
 * Fall 2020-Spring 2021: Undergraduate Research Opportunity Program 
   * Florida State University, Center for Advanced Power Systems
@@ -39,6 +39,7 @@ Research experience
   * Project Title: Dynamic Heat Exchanger Modeling with Physics-Informed Neural Networks
   * Contributed to draft of conference paper
   * Created and presented poster at the 2021 FSU Undergraduate Research Symposium
+
   
 Skills
 ======
@@ -46,6 +47,7 @@ Skills
 * Databases: Microsoft SQL Server, MySQL
 * Platforms: Microsoft Visual Studio Code, Entity Framework, Google BigQuery, GHIDRA, IDA, Drupal
 * Technical writing for both technical and non-technical audiences
+
   
 Service and leadership
 ======
@@ -61,6 +63,7 @@ Service and leadership
     * Speciality in instruction for hard sciences majors.
   * Developing and implementing interdisciplinary course content focusing on research skills, practices, and presentation.
   * Coordinating and advising students in search and maintenance of collegiate STEM research assistanceships.  
+
 
 Awards
 ======
