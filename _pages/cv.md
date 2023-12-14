@@ -16,17 +16,16 @@ Education
 
 Research experience
 ======
-* Summer 2023-Present: Master's Thesis-track
+* Fall 2023-Present: Master's Thesis-track
   * Florida State University, Department of Computer Science
-  * Advisors: Dr. Xuiwen Liu, Dr. Chris Mills
-  * Thesis Title:
+  * Advisors: Dr. Xiuwen Liu, Dr. Chris Mills
   * Expected Completion Spring 2024 
   
 * Summer 2022-Summer 2023: Directed Individual Study 
   * Florida State University, Department of Computer Science
   * Advisor: Dr. Chris Mills
   * Continuation of Honors-in-the-Major project
-  * Created and presented poster at the 2023 FSU CS Expo
+  * Created and presented poster at the 2023 FSU CS Expo to rotating audience of faculty and students
  
 * Fall 2021-Spring 2022: Honors-in-the-major Program
   * Florida State University, Department of Computer Science
