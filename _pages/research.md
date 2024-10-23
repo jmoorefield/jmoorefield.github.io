@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Investigating Entity Resolution in Text-to-SQL Models
-April 2024\ 
+April 2024\
 <u><a href="https://jmoorefield.github.io/files/investigatingentityresolution.pdf" target="_blank">PDF available here</a>.</u>
 
 This project explores using SQL views generated
