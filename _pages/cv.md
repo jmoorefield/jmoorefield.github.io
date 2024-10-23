@@ -9,18 +9,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Florida State University, 2023
-* B.A. in English, Florida State University, 2023
-* M.S. in Computer Science, Florida State University, expected Spring 2024
+* PhD in Computer Science, North Carolina State University, expected Spring 2027 
+* M.S. in Computer Science, Florida State University, Summer 2024
+* B.S. in Computer Science, Florida State University, Spring 2023
+* B.A. in English, Florida State University, Spring 2023
 
 
 Research experience
 ======
-* Fall 2023-Present: Master's Thesis-track
+* Fall 2023-Summer 2024: Master's Project 
   * Florida State University, Department of Computer Science
   * Advisors: Dr. Xiuwen Liu, Dr. Chris Mills
-  * Expected Completion Spring 2024 
-  
+  * Project Title: Investigating Entity Resolution in Text-to-SQL Models
+  * Modified state-of-the-art Text-to-SQL machine learning model to train on a benchmark dataset 
+
 * Summer 2022-Summer 2023: Directed Individual Study 
   * Florida State University, Department of Computer Science
   * Advisor: Dr. Chris Mills
@@ -42,9 +44,9 @@ Research experience
   
 Skills
 ======
-* Languages: C/C++, Java, Python, SQL
-* Databases: Microsoft SQL Server, MySQL
-* Platforms: Microsoft Visual Studio Code, Entity Framework, Google BigQuery, GHIDRA, IDA, Drupal
+* Languages: Python, SQL, Node.js, C/C++, Java, Assembly 
+* Databases: Microsoft SQL Server, MySQL, SQlite, MongoDB
+* Platforms: Microsoft Azure and Entity Framework, CUDA, PyTorch, Github, Latex, Excel, Google Cloud Platform 
 * Technical writing for both technical and non-technical audiences
 
   
