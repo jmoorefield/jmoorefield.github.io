@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jess Moorefield"
 title_separator          : "-"
 name                     : &name "Jess Moorefield"
-description              : &description "CS master's student at Florida State University"
+description              : &description "CS PhD student at North Carolina University"
 url                      : https://jmoorefield.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jmoorefield.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jess Moorefield"
   avatar           : "picture.JPG"
-  bio              : "CS master's student at Florida State University"
-  location         : "Tallahassee, FL"
+  bio              : "CS PhD student at North Carolina State University"
+  location         : "Raleigh, NC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=o-sbRNkAAAAJ&hl=en"
