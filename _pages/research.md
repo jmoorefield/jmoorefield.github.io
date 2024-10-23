@@ -9,7 +9,7 @@ author_profile: true
 
 Investigating Entity Resolution in Text-to-SQL Models
 April 2024 
-<u><a href="{{author.googlescholar}}">PDF available here</a>.</u>
+<u><a href="https://jmoorefield.github.io/files/investigatingentityresolution.pdf" target="_blank">PDF available here</a>.</u>
 
 This project explores using SQL views generated
 by object-relational mapping (ORM) as input to a Text-to-SQL
@@ -28,6 +28,6 @@ for the technique.
 
 April 2022 
 Leveraging Object-Relational Mapping to Reduce Entity Impedance In Natural Language Interfaces for Relational Databases 
-<u><a href="{{author.googlescholar}}">PDF available here</a>.</u>
+<u><a href="https://jmoorefield.github.io/files/leveragingobject-relational.pdf" target="_blank">PDF available here</a>.</u>
 
 This thesis demonstrates the use of an object-relational mapping (ORM) framework to reduce entity impedance in a natural language interface for relational databases (NLI-DB). Specifically, we present a database-agnostic SQL view construction algorithm that partitions an arbitrary database into entities that maximize performance of a natural language understanding (NLU) model. This model represents an important contribution to automating the creation of a natural language interface for a single database in two ways. First, it eliminates ambiguity when mapping a user’s information need to a specific database table. Second, it allows for the use of simple natural language models for generating SQL queries to service a given information need. Practically, our approach aims to increase database access for non-technical users by minimizing their need for SQL knowledge. We accomplish this by mapping a user’s information need to a specific set of database columns exposed by a specific entity view.
