@@ -15,7 +15,7 @@ Aug. 2023-Dec. 2023
 * Paper title: “Interactive Graph Search” by Yufei Tao, Yuanbing Li, and Guoliang Li
 * Developed Java application to construct graphs from a large-scale dataset and allow user to interactively search the graphs 
 * Performed experiments to evaluate cost and time complexity of algorithms  
-* Link to GitHub repository: <u><a href="https://github.com/jmoorefield/COP5725Project"</a></u>
+* Link to GitHub repository: <u><a href="https://github.com/jmoorefield/COP5725Project"></a></u>
 
 ### e-Commerce Store, CEN4021 Software Engineering II					
 Jan.-April 2023
@@ -30,6 +30,6 @@ Jan.-April 2022
 * Adapted the Boyer-Moore algorithm and related preprocessing algorithms for searching the content of the file(s) 
 * Integrated the search algorithm with a GUI
 * Collaborated with 4 team members to design and implement the project 
-* Link to GitHub repository: <u><a href="https://github.com/vz20e/Folder_Search"</a></u>
+* Link to GitHub repository: <u><a href="https://github.com/vz20e/Folder_Search"></a></u>
 
 
