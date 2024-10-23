@@ -30,6 +30,6 @@ Jan.-April 2022
 * Adapted the Boyer-Moore algorithm and related preprocessing algorithms for searching the content of the file(s) 
 * Integrated the search algorithm with a GUI
 * Collaborated with 4 team members to design and implement the project 
-* [Link to GitHub repository:](https://github.com/vz20e/Folder_Search)
+* [Link to GitHub repository](https://github.com/vz20e/Folder_Search)
 
 
